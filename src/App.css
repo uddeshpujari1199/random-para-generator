@@ -1,0 +1,23 @@
+body{
+  background-color: #ffe6d6;
+  color: #94360b;
+}
+.App{
+  padding: 5% 20%;
+  text-align: center;
+}
+.next{
+}
+button{
+  background-color: #f5873d;
+  color: white;
+  padding: 10px;
+  border: none;
+  margin-left: 10px;
+}
+input{
+  width: 50px;
+  padding: 10px;
+  border: none;
+  margin-left: 10px;
+}
